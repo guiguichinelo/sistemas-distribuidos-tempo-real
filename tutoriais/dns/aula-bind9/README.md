@@ -350,7 +350,7 @@ dig @$DNS -p 5300 professor.sdtr.uniube A +short
 
 ## Experimento 8 — Alunos nos notebooks
 
-Cada aluno cria um registro com o **s****eu**** ****u****s****u****á****r****io**** ****d****o**** ****g****i****thub** (evita colisões), consulta o do colega e remove o seu:
+Cada aluno cria um registro com o **seu usuário do github** (evita colisões), consulta o do colega e remove o seu:
 
 ```bash
 NOME=maria      # cada um usa o seu
